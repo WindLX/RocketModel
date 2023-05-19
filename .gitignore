@@ -1,0 +1,19 @@
+/.vscode
+/Logs
+/obj
+/Library
+/Packages
+/ProjectSettings
+/UserSettings
+/Recordings
+/Temp
+/Builds
+
+*.csproj
+*.sln
+
+Assets/AtomRocket
+Assets/Icon
+Assets/Plugins
+Assets/TextMesh Pro
+Assets/Fantasy Skybox FREE
